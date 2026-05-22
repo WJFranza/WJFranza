@@ -1,3 +1,5 @@
+[![BCBC Dexter Animated Demo](https://raw.githubusercontent.com/WJFranza/bcbc-git-guide/main/demos/dexter-animated-banner/assets/dexter-reveal-only.png)](https://wjfranza.github.io/bcbc-git-guide/demos/dexter-animated-banner/)
+
 # William James (Born - Franza) / Mikey_LikesIT
 
 Builder of BCBC Technician Tools and Learning System.
