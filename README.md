@@ -35,7 +35,7 @@ A modular technician-focused Linux and infrastructure reference system with:
 - Networking, storage, DNS, and diagnostics references
 
 Repository:
-(https://github.com/WJFranza/bcbc-technician-command-reference-library)
+https://github.com/WJFranza/bcbc-technician-command-reference-library
 
 ---
 
