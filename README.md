@@ -2,7 +2,7 @@
 
 # William James (Born - Franza) / Mikey_LikesIT
 
-FAA Commercial Pilot • CFII • AGI • Infrastructure Operator • AI-Assisted Systems Builder • [Resume](https://bchicbcow.com/files/WJ-Resume-Current_5-23-26.pdf)
+FAA Commercial Pilot • CFII • AGI • Infrastructure Operator • AI-Assisted Systems Builder • [Resume](https://raw.githubusercontent.com/WJFranza/bcbc-git-guide/main/files/WJ-Resume-Current_5-23-26.pdf)
 
 Builder of BCBC Technician Tools and Learning System.
 
