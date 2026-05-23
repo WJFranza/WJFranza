@@ -22,7 +22,7 @@ Focused on practical Linux infrastructure, technician-first tooling, AI-assisted
 
 # Featured Projects
 
-## BCBC Linux Administrator Cheat Sheet Platform
+## BCBC Linux Administrator Command Reference and Library Platform
 
 A modular technician-focused Linux and infrastructure reference system with:
 
