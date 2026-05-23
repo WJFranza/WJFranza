@@ -10,7 +10,7 @@ Focused on practical Linux infrastructure, technician-first tooling, AI-assisted
 
 # Current Focus
 
-- BCBC Linux Administrator Cheat Sheet Platform
+- BCBC Linux Administrator Command Reference and Library Platform
 - AI-Assisted Defensive Operations Lab
 - Dexter AI Operations Node
 - Technician learning and recovery workflows
