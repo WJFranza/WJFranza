@@ -1,100 +1,52 @@
-[![BCBC Dexter Animated Demo](https://raw.githubusercontent.com/WJFranza/bcbc-git-guide/main/demos/dexter-animated-banner/assets/dexter-reveal-only.png)](https://wjfranza.github.io/bcbc-git-guide/demos/dexter-animated-banner/)
+# William James | BCBC Technologies
+**Linux infrastructure engineer · Systems builder · AI tooling and verification**
 
-# William James (Born - Franza) / Mikey_LikesIT
+35+ years working with Linux, networking, recovery, automation, and production infrastructure. I build practical tools that make complex systems easier to inspect, operate, and repair.
 
-FAA Commercial Pilot • CFII • AGI • Infrastructure Operator • AI-Assisted Systems Builder • [Resume](https://raw.githubusercontent.com/WJFranza/bcbc-git-guide/main/files/WJ-Resume-Current_5-23-26.pdf)
+[BCBC Technologies](https://www.bchicbcow.com/) · [GitHub projects](https://github.com/WJFranza?tab=repositories)
 
-Builder of BCBC Technician Tools and Learning System.
+## Current engineering work
 
-Focused on practical Linux infrastructure, technician-first tooling, AI-assisted defensive operations, recovery workflows, local AI systems, dashboards, and educational platforms designed to help real operators understand and protect systems.
+### PRISM Observer — AI identity & evidence lab
+An evidence-first framework for comparing **claimed**, **reported**, and **configured** model identity and capabilities. Captures raw outputs, request identifiers, routing observations, and review status; separates model self-report from independently verified evidence.
 
----
+**Status:** Active development; public source release pending review and sanitization.
 
-# Current Focus
+### BCBC ACP — Infrastructure control panel
+A unified operator interface for Linux and Proxmox administration, service health, WireGuard visibility, diagnostics, and controlled operational workflows.
 
-- BCBC Linux Administrator Command Reference and Library Platform
-- AI-Assisted Defensive Operations Lab
-- Dexter AI Operations Node
-- Technician learning and recovery workflows
-- Dynamic modular command/reference systems
-- Local AI and infrastructure experimentation
-- Practical defensive operations and documentation
+**Status:** Active development; preparing a stable, tested baseline before public release.
 
----
+### FreeLLMAPI integration & regression testing
+Testing official FreeLLMAPI versions and provider routing behavior, with repeatable prompts, evidence collection, error classification, and compatibility comparisons.
 
-# Featured Projects
+**Status:** Active integration work. Not an official FreeLLMAPI project.
 
-## BCBC Linux Administrator Command Reference and Library Platform
+### BCBC Grow System / Nexus
+A modular monitoring and control concept for grow environments, including zones, configurable profiles, interface design, and demonstration workflows.
 
-A modular technician-focused Linux and infrastructure reference system with:
+**Status:** Development and demos; release scope under review.
 
-- Dynamic `.bcbc` pack loading
-- GitHub Pages compatibility
-- LAN/offline deployment support
-- Import/export pack architecture
-- Python helper utilities
-- Admin workstation toolkit packs
-- Networking, storage, DNS, and diagnostics references
+### Infrastructure automation & recovery
+Hands-on Proxmox, OPNsense, WireGuard, DNS, Linux networking, backup verification, and safe operational tooling.
 
-Repository:
-https://github.com/WJFranza/bcbc-technician-command-reference-library
+**Status:** Ongoing. Public examples will omit credentials, internal addressing, and sensitive deployment details.
 
----
+## Public repositories
+The existing repositories are being reviewed and reorganized. New flagship code will be published only after functionality, licensing, and security review.
 
-## BCBC AI-Assisted Defensive Operations Lab
+- [BCBC Technologies](https://github.com/WJFranza/bcbctech)
+- [Dexter infrastructure agent — earlier prototype](https://github.com/WJFranza/dexter-autonomous-agent)
+- [BCBC technician platform](https://github.com/WJFranza/bcbc-technician-platform)
 
-Exploring how experienced operators can collaborate with AI to improve:
+## Engineering approach
+**Verify before claiming. Back up before changing. Make failure visible.**
 
-- Defensive workflows
-- Documentation
-- Recovery procedures
-- System visibility
-- Technician learning
-- Infrastructure troubleshooting
+I favor reproducible tests, explicit PASS/FAIL checks, readable operator documentation, staged deployment, and recoverable changes. My focus is technology that remains useful to working technicians, learners, veterans, and people with limited budgets.
 
-Repository:
-https://github.com/WJFranza/bcbc-ai-assisted-defensive-ops-lab
+## Background
+Linux and Windows administration · TCP/IP networking · Proxmox/LXC · Python/PowerShell/Perl · Automation · Backup/recovery · Self-hosted services · Community platform development
 
----
+Former founder of HeliFreak.com. AAS in Programming; MCSE, CCNA, and CompTIA certifications.
 
-## Dexter Animated Operations Demo
-
-Animated operational branding and interface experimentation for BCBC infrastructure concepts.
-
-Demo:
-https://wjfranza.github.io/bcbc-git-guide/demos/dexter-animated-banner/
-
----
-
-# Philosophy
-
-Experienced operator + AI reasoning partner = better documentation, safer workflows, stronger defensive operations, and more accessible technical learning.
-
-Technology should help people learn, recover, verify, repair, and operate systems safely.
-
----
-
-# Infrastructure Support
-
-Special thanks to ClouDNS for supporting reliable DNS infrastructure for BCBC projects.
-
-https://www.cloudns.net/
-
----
-
-# Background
-
-- Linux systems administration
-- Infrastructure and colo operations
-- Community platform ownership and scaling
-- Technical education concepts
-- Local AI experimentation
-- Recovery and troubleshooting workflows
-- Long-term systems reliability and operational thinking
-
----
-
-# Links
-
-- GitHub: https://github.com/WJFranza
-- Website: https://www.bchicbcow.com/
+**Contact:** [BCBC Technologies](https://www.bchicbcow.com/)
